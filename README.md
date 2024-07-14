@@ -12,14 +12,12 @@
 <p align="left">- 🔭 I’m working as Senior Software Engineer at Blinkit (Zomato)<br>- ⚡ In my free time I read about Swift / iOS<br>
 
 ###
-<h2>Let's connect! </h2>
-<div align="left">
-  
-<a href="https://www.linkedin.com/in/abhishek25130/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-</a>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek25130) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dogra25130) 
 
-</div>
+
+
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
