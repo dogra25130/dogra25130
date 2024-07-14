@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dogra25130.dogra25130&"  />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋 I'm Abhishek Dogra, an iOS engineer from India </h1>
@@ -16,6 +12,18 @@
 <p align="left">- 🔭 I’m working as Senior Software Engineer at Blinkit (Zomato)<br>- ⚡ In my free time I read about Swift / iOS<br>
 
 ###
+<h2>Let's connect! </h2>
+<div align="left">
+  
+<a href="https://www.linkedin.com/in/abhishek25130/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
+
+  <a href="https://x.com/dogra25130">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</a>
+
+</div>
 
 <h3 align="left">🔥   My Stats :</h3>
 
