@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Senior Software Engineer at Blinkit (Zomato)<br>- ⚡ In my free time I read about Swift / iOS<br>
+<p align="left">- 🔭 I’m working as Senior Software Engineer at Blinkit (Zomato)<br>-🎓 Graduate from IIT Guwahati <br>- ⚡ In my free time I read about Swift / iOS<br>
 
 ###
 ## 🌐 Socials:
