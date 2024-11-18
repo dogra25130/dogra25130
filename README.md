@@ -1,7 +1,7 @@
 
 ###
 
-<h1 align="center">hey there 👋 I'm Abhishek Dogra, an iOS engineer from India </h1>
+<h1 align="center">hey there 👋 I'm Abhishek Dogra, an iOS engineer. </h1>
 
 ###
 
